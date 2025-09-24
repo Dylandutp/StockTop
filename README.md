@@ -27,3 +27,7 @@ The program includes a **resume feature**:
 - The program will:
   -  Detect the existing `unfinished_list.txt`.
   -  Automatically continue from the last incomplete position until all data has been successfully processed.
+ 
+## Example
+![runing_demo](https://github.com/Dylandutp/StockTop/blob/main/example/running_screen.png)
+![database_result](https://github.com/Dylandutp/StockTop/blob/main/example/example_db_result.png)
